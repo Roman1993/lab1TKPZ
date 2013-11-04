@@ -1,1 +1,2 @@
-create New Branch
+create New Branch in master --- add text in other branch
+this text was typed in master Branch
